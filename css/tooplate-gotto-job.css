@@ -640,12 +640,12 @@ nav[aria-label="breadcrumb"] {
 }
 
 .hero-section .custom-border-btn {
-  border-color: var(--secondary-color);
-  color: var(--secondary-color);
+  border-color: var(--custom-btn-bg-color);
+  color: var(--custom-btn-bg-color);
 }
 
 .hero-section .custom-border-btn:hover {
-  background: var(--secondary-color);
+  background: var(--custom-btn-bg-color);
   color: var(--white-color);
 }
 
